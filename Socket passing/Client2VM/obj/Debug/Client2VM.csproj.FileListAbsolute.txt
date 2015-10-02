@@ -1,0 +1,10 @@
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client2VM\bin\Debug\Client2VM.exe.config
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client2VM\bin\Debug\Client2VM.exe
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client2VM\bin\Debug\Client2VM.pdb
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client2VM\obj\Debug\Client2VM.exe
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client2VM\obj\Debug\Client2VM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\bin\Debug\Client2VM.exe.config
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\bin\Debug\Client2VM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\bin\Debug\Client2VM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\obj\Debug\Client2VM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\obj\Debug\Client2VM.pdb

@@ -1,0 +1,6 @@
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\bin\Release\Client2VM.exe.config
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\bin\Release\Client2VM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\bin\Release\Client2VM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\obj\Release\Client2VM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\obj\Release\Client2VM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\Client2VM\obj\Release\Client2VM.csprojResolveAssemblyReference.cache

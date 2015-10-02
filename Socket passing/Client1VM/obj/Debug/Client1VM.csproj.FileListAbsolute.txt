@@ -1,0 +1,10 @@
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client1VM\bin\Debug\Client1VM.exe.config
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client1VM\bin\Debug\Client1VM.exe
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client1VM\bin\Debug\Client1VM.pdb
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client1VM\obj\Debug\Client1VM.exe
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\Client1VM\obj\Debug\Client1VM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\Client1VM\bin\Debug\Client1VM.exe.config
+C:\Users\Swapnil\Downloads\HW1\HW1\Client1VM\bin\Debug\Client1VM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\Client1VM\bin\Debug\Client1VM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\Client1VM\obj\Debug\Client1VM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\Client1VM\obj\Debug\Client1VM.pdb

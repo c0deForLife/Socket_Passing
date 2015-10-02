@@ -1,0 +1,12 @@
+c:\users\swapnil\documents\visual studio 2013\Projects\ServerVM\ServerVM\bin\Debug\ServerVM.exe.config
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\ServerVM\bin\Debug\ServerVM.exe.config
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\ServerVM\bin\Debug\ServerVM.exe
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\ServerVM\bin\Debug\ServerVM.pdb
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\ServerVM\obj\Debug\ServerVM.csprojResolveAssemblyReference.cache
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\ServerVM\obj\Debug\ServerVM.exe
+C:\Users\Swapnil\Documents\Visual Studio 2013\Projects\HW1\ServerVM\obj\Debug\ServerVM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\bin\Debug\ServerVM.exe.config
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\bin\Debug\ServerVM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\bin\Debug\ServerVM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\obj\Debug\ServerVM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\obj\Debug\ServerVM.pdb

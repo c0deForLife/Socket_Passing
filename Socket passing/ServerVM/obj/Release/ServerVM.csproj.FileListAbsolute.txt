@@ -1,0 +1,6 @@
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\bin\Release\ServerVM.exe.config
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\bin\Release\ServerVM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\bin\Release\ServerVM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\obj\Release\ServerVM.exe
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\obj\Release\ServerVM.pdb
+C:\Users\Swapnil\Downloads\HW1\HW1\ServerVM\obj\Release\ServerVM.csprojResolveAssemblyReference.cache
